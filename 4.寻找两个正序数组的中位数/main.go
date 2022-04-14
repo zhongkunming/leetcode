@@ -100,7 +100,7 @@ import (
 //	n2Length := end2 - start2 + 1
 //	// 保证nums1最短
 //	if n1Length > n2Length {
-//		return getKth(nums2, start2, end2, nums1, start1, end2, k)
+//		return getKth(nums2, start2, end2, nums1, start1, end1, k)
 //	}
 //	// nums1 消耗完
 //	if n1Length == 0 {
